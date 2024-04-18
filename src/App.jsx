@@ -22,9 +22,6 @@ function App() {
             <Button href="https://silondobermula.depok.go.id/layanan/">
               LAYANAN DISDUKCAPIL
             </Button>
-            <Button href="https://api.whatsapp.com/send?phone=+6287853852745&text=Hallo%2C%20...">
-              WHATSUP PENGADUAN
-            </Button>
             <Button href="https://ombudsman.go.id/pengaduan">
               PENGADUAN ONLINE OMBUDSMAN RI
             </Button>
