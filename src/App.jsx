@@ -1,5 +1,7 @@
 import "./App.css";
 import { Button, Card } from "flowbite-react";
+import { Avatar } from "flowbite-react";
+import logo from "./assets/logo.png";
 
 function App() {
   return (
@@ -7,26 +9,26 @@ function App() {
       <div className="mx-auto my-auto p-4">
         <div>
           <Card>
-            {" "}
-            <div className="mx-auto">
+            <div className="relative items-center mx-auto ">
               <img
+                className="rounded items-center"
                 src="https://pbb-bphtb.depok.go.id:58083/e_pbb/assets/img/landing_hero_01.png"
-                alt="Ikhwaan"
+                alt="logo depok"
                 width={400}
               />
             </div>
-            <h2 className="text-center font-bold text-">KECAMATAN SUKMAJAYA</h2>
+            <div className="mx-auto"></div>
+            <p className="text-center font-bold text-9xl">
+              KECAMATAN SUKMAJAYA
+            </p>
             <Button href="https://sukmajaya.depok.go.id/home" className="">
               PORTAL RESMI KOTA DEPOK
             </Button>
             <Button href="https://silondobermula.depok.go.id/layanan/">
               LAYANAN DISDUKCAPIL
             </Button>
-            <Button href="https://ombudsman.go.id/pengaduan">
-              PENGADUAN ONLINE OMBUDSMAN RI
-            </Button>
             <Button href="https://api.whatsapp.com/send?phone=+62811903276text=Hallo%2C%20">
-              WHATSUP PENGADUAN
+              WHATSUP DISDUKCAPIL
             </Button>
             <Button href="https://drive.google.com/drive/folders/1-82_akdTe03nnhRpv4e2qniivDgtR8ru">
               PEMBUATAN AHLI WARIS
@@ -48,6 +50,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojte
             </Button>
             <Button href="https://drive.google.com/drive/folders/1-F0jZBVGYPA-5uOMpOJWkwSmzZLYdCH_">
               PPATS
+            </Button>
+            <Button href="https://api.whatsapp.com/send?phone=+6287853852745&text=Hallo%2C%20...">
+              WHATSUP PENGADUAN
+            </Button>
+            <Button href="https://ombudsman.go.id/pengaduan">
+              PENGADUAN ONLINE OMBUDSMAN RI
             </Button>
             <Button href="https://forms.gle/19nzQamdrJoU8xnV9">
               SURVEY KEPUASAN MASYARAKAT
