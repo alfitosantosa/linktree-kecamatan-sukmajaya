@@ -29,7 +29,7 @@ function App() {
             <Button href="https://silondobermula.depok.go.id/layanan/">
               LAYANAN DISDUKCAPIL
             </Button>
-            <Button href="https://api.whatsapp.com/send?phone=+62811903276text=Hallo%2C%20">
+            <Button href="https://wa.me/62811903276">
               WHATSUP DISDUKCAPIL
             </Button>
             <Button href="https://drive.google.com/drive/folders/1-82_akdTe03nnhRpv4e2qniivDgtR8ru">
