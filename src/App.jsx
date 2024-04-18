@@ -22,9 +22,14 @@ function App() {
             <Button href="https://silondobermula.depok.go.id/layanan/">
               LAYANAN DISDUKCAPIL
             </Button>
-            <Button href="https://wa.link/24q18y">WHATSUP PENGADUAN</Button>
+            <Button href="https://api.whatsapp.com/send?phone=+6287853852745&text=Hallo%2C%20...">
+              WHATSUP PENGADUAN
+            </Button>
             <Button href="https://ombudsman.go.id/pengaduan">
               PENGADUAN ONLINE OMBUDSMAN RI
+            </Button>
+            <Button href="https://api.whatsapp.com/send?phone=+62811903276text=Hallo%2C%20">
+              WHATSUP PENGADUAN
             </Button>
             <Button href="https://drive.google.com/drive/folders/1-82_akdTe03nnhRpv4e2qniivDgtR8ru">
               PEMBUATAN AHLI WARIS
