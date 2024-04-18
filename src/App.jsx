@@ -12,7 +12,7 @@ function App() {
               <img
                 src="https://pbb-bphtb.depok.go.id:58083/e_pbb/assets/img/landing_hero_01.png"
                 alt="Ikhwaan"
-                width={100}
+                width={400}
               />
             </div>
             <h2 className="text-center font-bold text-">KECAMATAN SUKMAJAYA</h2>
@@ -31,6 +31,24 @@ function App() {
             </Button>
             <Button href="https://bkol.depok.go.id/register/4">
               PEMBUATAN KARTU KUNING
+            </Button>
+            <Button
+              href="
+https://drive.google.com/drive/folders/1-DBoY28fKEAu95GbywL_JCjO9Efg2Fwf"
+            >
+              REKOMENDASI IMB
+            </Button>
+            <Button
+              href="
+https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojteK37b2yt8dg/viewform?usp=sf_link"
+            >
+              DISPENSASI NIKAH
+            </Button>
+            <Button href="https://drive.google.com/drive/folders/1-F0jZBVGYPA-5uOMpOJWkwSmzZLYdCH_">
+              PPATS
+            </Button>
+            <Button href="https://forms.gle/19nzQamdrJoU8xnV9">
+              SURVEY KEPUASAN MASYARAKAT
             </Button>
           </Card>
         </div>
