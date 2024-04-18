@@ -17,10 +17,12 @@ function App() {
                 width={400}
               />
             </div>
-            <div className="mx-auto"></div>
-            <p className="text-center font-bold text-9xl">
-              KECAMATAN SUKMAJAYA
-            </p>
+            <div className="mx-auto text-center">
+              <p className="text-center font-bold text-2xl">
+                KECAMATAN SUKMAJAYA
+              </p>
+              <p>Maju, Berbudaya dan Sejahtera</p>
+            </div>
             <Button href="https://sukmajaya.depok.go.id/home" className="">
               PORTAL RESMI KOTA DEPOK
             </Button>
