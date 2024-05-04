@@ -30,7 +30,7 @@ function App() {
               LAYANAN DISDUKCAPIL
             </Button>
             <Button href="https://wa.me/62811903276">
-              WHATSUP DISDUKCAPIL
+              WHATSAPP DISDUKCAPIL
             </Button>
             <Button href="https://drive.google.com/drive/folders/1-82_akdTe03nnhRpv4e2qniivDgtR8ru">
               PEMBUATAN AHLI WARIS
