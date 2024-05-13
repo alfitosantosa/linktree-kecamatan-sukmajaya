@@ -8,4 +8,11 @@ module.exports = {
     // ...
     require("flowbite/plugin"),
   ],
+  theme: {
+    extend: {
+      colors: {
+        whatsappGreen: '#25D366', // Sesuaikan dengan warna WhatsApp
+      },
+    },
+  },
 };
