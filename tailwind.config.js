@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        whatsappGreen: '#25D366', // Sesuaikan dengan warna WhatsApp
+        whatsappGreen: "#25D366", // Sesuaikan dengan warna WhatsApp
       },
     },
   },
