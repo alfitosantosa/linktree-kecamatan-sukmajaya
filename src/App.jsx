@@ -63,9 +63,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojte
             <Button href="https://forms.gle/19nzQamdrJoU8xnV9">
               SURVEY KEPUASAN MASYARAKAT
             </Button>
-            <Button href="https://perizinanonline.depok.go.id/index.php/persyaratan">
-              PERSYARATAN PERIZINAN KOTA DEPOK
-            </Button>
           </Card>
           <Card>
             <h1 className="font-bold text-center font-bold text-xl">
