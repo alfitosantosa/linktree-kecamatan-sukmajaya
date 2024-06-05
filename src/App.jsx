@@ -42,7 +42,7 @@ function App() {
               href="
 https://drive.google.com/drive/folders/1-DBoY28fKEAu95GbywL_JCjO9Efg2Fwf"
             >
-              Persyaratan Permohon IMB Non Hunian Tinggal Tunggal
+              PERSYARATAN PERMOHON IMB NON HUNIAN TINGGAL TUNGGAL
             </Button>
             <Button
               href="
@@ -53,6 +53,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojte
             <Button href="https://drive.google.com/drive/folders/1-F0jZBVGYPA-5uOMpOJWkwSmzZLYdCH_">
               PPATS
             </Button>
+            <Button href="https://perizinanonline.depok.go.id/index.php/persyaratan">
+              PERSYARATAN PERIZINAN KOTA DEPOK
+            </Button>
 
             <Button href="https://ombudsman.go.id/pengaduan">
               PENGADUAN ONLINE OMBUDSMAN RI
@@ -61,7 +64,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojte
               SURVEY KEPUASAN MASYARAKAT
             </Button>
             <Button href="https://perizinanonline.depok.go.id/index.php/persyaratan">
-              Persyaratan Perizinan Kota Depok
+              PERSYARATAN PERIZINAN KOTA DEPOK
             </Button>
           </Card>
           <Card>
