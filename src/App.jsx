@@ -42,7 +42,7 @@ function App() {
               href="
 https://drive.google.com/drive/folders/1-DBoY28fKEAu95GbywL_JCjO9Efg2Fwf"
             >
-              REKOMENDASI IMB
+              Persyaratan Permohon IMB Non Hunian Tinggal Tunggal
             </Button>
             <Button
               href="
@@ -59,6 +59,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4wopu3y_Lx1sZgXFalCQznVpaKLeuL5XOojte
             </Button>
             <Button href="https://forms.gle/19nzQamdrJoU8xnV9">
               SURVEY KEPUASAN MASYARAKAT
+            </Button>
+            <Button href="https://perizinanonline.depok.go.id/index.php/persyaratan">
+              Persyaratan Perizinan Kota Depok
             </Button>
           </Card>
           <Card>
